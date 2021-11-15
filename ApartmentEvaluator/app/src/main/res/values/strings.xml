@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ApartmentEvaluator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="email">email</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="email_error">Debe ingresar un Email</string>
+    <string name="pass_error">Debe ingresar una contraseña</string>
+    <string name="error">Error</string>
+    <string name="alerta_msg">Correo o Contraseña invalido</string>
+    <string name="ok">Ok</string>
+    <string name="cb_luces">luces de la unidad</string>
+    <string name="cb_dormitorio">elementos del dormitorio</string>
+    <string name="cb_cocina">Elementos de la cocina</string>
+    <string name="cb_bano">Elementos del baño</string>
+    <string name="rb_normal">Estado terminaciones Normal</string>
+    <string name="rb_regular">Terminaciones Regular</string>
+    <string name="rb_mala">Estado Terminaciones Mala</string>
+    <string name="btn_calcular">Guardar</string>
+    <string name="btn_correo">Enviar</string>
+    <string name="tv_resultado">"Puntaje obtenido : "</string>
+    <string name="puntos"> Puntos</string>
+</resources>
